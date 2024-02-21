@@ -1,5 +1,7 @@
 Copyright 2020 - The LineageOS Project
 
+WORK IN PROGRESS
+
 Device configuration for Samsung Galaxy S7 Unified variants (SM-G930F, SM-G930W8, SM-G930S, SM-G930L).
 ========================================
 
