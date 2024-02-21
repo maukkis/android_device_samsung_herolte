@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_herolte.mk
+    $(LOCAL_DIR)/aosp_heroltemeow.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_herolte-user \
-    lineage_herolte-userdebug \
-    lineage_herolte-eng
+    aosp_heroltemeow-user \
+    aosp_heroltemeow-userdebug \
+    aosp_heroltemeow-eng

@@ -12,7 +12,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+# I FUCKING HATE SELINUX
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 # inherit from common
 include device/samsung/universal8890-common/BoardConfigCommon.mk
 
